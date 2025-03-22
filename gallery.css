@@ -1,0 +1,127 @@
+.bg{
+    background-color: #687e85;
+    overflow-x: hidden;
+    
+}
+.navbar {
+    width : 100vw;
+    height: 15vh;
+    
+}
+
+.navbar-brand {
+    font-size: x-large;
+    color: white;
+}
+.nav-item {
+    font-size: larger;
+    
+}
+
+.nav-link {
+    color: white;
+    position: relative;
+    left: 880px;
+}
+
+.bg-col-nav{
+    background: #0F2027;
+    background: -webkit-linear-gradient(to right, #243f4b, #203A43, #0F2027); 
+    background: linear-gradient(to right, #233b46, #203A43, #0F2027); 
+} 
+
+.img{
+    width: 700px;
+    height: 700px;
+}
+
+.img1{
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.c2{
+    display: flex;
+    width: 700px;
+    height: 700px;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+  }
+  
+.c1 {
+    width: 700px;
+    height: 700px;
+    scroll-snap-align: start;
+  }
+
+.box{
+    width: 620px;
+    height: 675px;
+    background-color: #0f2027b9;
+    color: rgb(255, 255, 255);
+    font-family: Trebuchet MS;
+    border-radius: 10px;
+    margin-top: 75px;
+    margin: 10px;
+}
+
+.frame{
+    margin-top: 50px;
+    width:420px;
+    height:315px;
+}
+
+.button { 
+    background-color:#8fc79e; 
+    font-family: Trebuchet MS ;
+    font-weight: bold;
+    padding: 14px 40px;
+    border :2px;
+    border-radius : 5px;  
+    text-align: center;
+    transition-duration: 0.4s;
+    margin-top: 25px;
+  }
+  
+  .button:hover {
+  background-color: azure ;
+  color: black; 
+  } 
+
+  .text{
+    text-align: center;
+    width: 600px;
+    height: 700px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+    font-family: Trebuchet MS;
+    padding-top: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #89aebecc;
+  }
+
+  .box1{
+    width: 620px;
+    height: 300px;
+    color: rgb(255, 255, 255);
+    font-family: Trebuchet MS;
+    border-radius: 10px;
+    margin-top: 75px;
+    margin: 10px;
+    padding: 20px;
+    background: #141e30c9;  
+    background: -webkit-linear-gradient(to right, #414f5fc5, #142038b7); 
+    background: linear-gradient(to right, #445161bb, #12213dbe);
+
+
+  }
+
+  
+
+  
+
+

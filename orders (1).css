@@ -1,0 +1,35 @@
+.back {
+    background-image: url('https://images.pexels.com/photos/5635097/pexels-photo-5635097.jpeg'); 
+    background-size: cover;
+} 
+
+.form1 {
+    text-align:left ; 
+    font-family:impact ; 
+    background-color: rgba(14, 58, 36, 0.637); 
+    color: rgb(0, 8, 8); 
+    font-size:250% ;
+     position:relative ;
+      left:650px; 
+} 
+
+.submit { 
+    font-size: 45;
+    background-color:#8fc79e; 
+    font-family: impact ;
+    padding: 14px 40px;
+    border :2px;
+    border-radius : 2px;  
+    text-align: center;
+    transition-duration: 0.4s;
+  }
+  
+  .submit:hover {
+  background-color: azure ;
+  color: black; 
+  }   
+
+  .inputbox {
+    width: 60 px;
+    padding: 12px 20px;
+  }

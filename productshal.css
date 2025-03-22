@@ -1,0 +1,81 @@
+
+.bg{
+  overflow-x: hidden;
+}
+
+.navbar {
+  width : 100vw;
+  height: 15vh;
+  
+}
+
+.navbar-brand {
+  font-size: x-large;
+  color: white;
+}
+.nav-item {
+  font-size: larger;
+  position: relative;
+  left:50px;
+  
+}
+
+.nav-link {
+  color: white;
+  position: relative;
+  left: 880px;
+}
+
+.bg-col-nav{
+  background: #0F2027;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+
+
+
+
+
+.bg {
+    background-color: #7ea09b; 
+}  
+
+.image1 { 
+    width: 540px;
+    height: 810px; 
+    position: relative;
+    left: 100px;
+}
+ 
+
+.heading { 
+    background-color: #3e4b499f;
+    text-align: center;
+    font-family: Impact;
+    color: rgba(255, 255, 255, 0.918);
+    position: relative;
+    right: 200px;   
+    
+   
+}  
+
+
+.box {
+    background-color:#b2cecabb ; 
+    border-radius: 10px;
+    width: 600px;
+    height: 810px;
+} 
+
+.text {  
+    text-align: center;
+    font-family: Impact;
+    color: black;
+    text-align: center;
+    padding-top: 100px; 
+    position: relative; 
+    left: 50px;
+    font-size: xx-large;
+}
